@@ -1,0 +1,3 @@
+#!/bin/bash
+y="Emilia Nawrocka"
+echo $y
